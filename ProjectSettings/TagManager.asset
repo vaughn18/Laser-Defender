@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Player Projectile
+  - Enemy Projectile
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3687086643
+    locked: 0
+  - name: Laser
+    uniqueID: 1221028217
     locked: 0
   - name: Player
     uniqueID: 3833315217
