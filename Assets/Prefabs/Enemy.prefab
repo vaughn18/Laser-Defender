@@ -110,11 +110,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
+  deathVFX: {fileID: 822562899630953131, guid: afa8904d0e2e9db4bab76b0f9898068b, type: 3}
+  durationOfExplosion: 1
   shotCounter: 0
   minTimeBetweenShots: 1
   maxTimeBetweenShots: 5
   laserPrefab: {fileID: 5086241402216397630, guid: eee48277801220a4bbf621c334d4d3fe, type: 3}
   laserSpeed: 5
+  shootSound: {fileID: 8300000, guid: c1a43813b891abb47bd60198127e453d, type: 3}
+  shootSoundVolume: 0.15
+  deathSound: {fileID: 8300000, guid: 7b01a8361b597544e812bad39a6c553d, type: 3}
+  deathSoundVolume: 0.15
 --- !u!58 &6929115023475169780
 CircleCollider2D:
   m_ObjectHideFlags: 0
