@@ -114,9 +114,10 @@ MonoBehaviour:
   health: 100
   deathVFX: {fileID: 822562899630953131, guid: afa8904d0e2e9db4bab76b0f9898068b, type: 3}
   durationOfExplosion: 1
+  enemyScoreValue: 100
   shotCounter: 0
   minTimeBetweenShots: 1
-  maxTimeBetweenShots: 5
+  maxTimeBetweenShots: 2
   laserPrefab: {fileID: 5086241402216397630, guid: eee48277801220a4bbf621c334d4d3fe, type: 3}
   laserSpeed: 5
   shootSound: {fileID: 8300000, guid: c1a43813b891abb47bd60198127e453d, type: 3}

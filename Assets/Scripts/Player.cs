@@ -41,6 +41,10 @@ public class Player : MonoBehaviour
         Fire();
     }
 
+    public int GetHealth()
+    {
+        return health;
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
