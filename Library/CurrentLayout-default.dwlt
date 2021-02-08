@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 880, y: 471}
   m_MaxSize: {x: 16005, y: 14021}
   vertical: 0
-  controlID: 24422
+  controlID: 145
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 471}
   m_MaxSize: {x: 12005, y: 14021}
   vertical: 1
-  controlID: 24400
+  controlID: 146
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 24401
+  controlID: 147
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -422,9 +422,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: c0330000
       m_LastClickedID: 0
-      m_ExpandedIDs: b6d0ffff90d2ffff9cd2ffff50d3ffffa4d3ffffb6f6ffff3afbffff
+      m_ExpandedIDs: 5afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -484,9 +484,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 178.6507, y: 230.36847, z: -104.425995}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 178.6507, y: 230.36847, z: -104.425995}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -537,9 +537,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 332.12067
+    m_Target: 10
     speed: 2
-    m_Value: 332.12067
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -602,21 +602,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: V:\Projects\Unity Projects\Laser Defender
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0a3e0000
-    m_LastClickedID: 15882
-    m_ExpandedIDs: 000000000a3e0000cc3f0000184700009a4b000000ca9a3b
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: c43e0000
+    m_LastClickedID: 16068
+    m_ExpandedIDs: 00000000903e0000923e0000943e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -644,7 +644,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a3e0000cc3f0000184700009a4b000000ca9a3b
+    m_ExpandedIDs: 00000000903e0000923e0000943e0000963e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
